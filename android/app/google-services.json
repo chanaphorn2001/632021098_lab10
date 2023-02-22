@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691002990812",
+    "project_id": "lab10-firebase098",
+    "storage_bucket": "lab10-firebase098.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691002990812:android:e4eedc3004163b2d8e9419",
+        "android_client_info": {
+          "package_name": "com.example.lab10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691002990812-gg1g76dj874v7u26mnog8bc3dbvhl269.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTykDumBxtE6K7Y541gsi1ZbYjLxej6Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691002990812-gg1g76dj874v7u26mnog8bc3dbvhl269.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
